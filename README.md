@@ -6,12 +6,10 @@ Pixel style keyboard key icons. Available in 16px, 32px, 64px sizes.
 ![16px](./16px/CapitalLetters24.png)
 ![16px](./16px/CapitalLetters5.png)
 ![16px](./16px/CapitalLetters12.png)
-
 ![16px](./16px/CapitalLetters11.png)
 ![16px](./16px/CapitalLetters5.png)
 ![16px](./16px/CapitalLetters25.png)
-
-![16px](./16px/CapitalLetters8.png)
+![16px](./16px/CapitalLetters9.png)
 ![16px](./16px/CapitalLetters3.png)
 ![16px](./16px/CapitalLetters15.png)
 ![16px](./16px/CapitalLetters14.png)
